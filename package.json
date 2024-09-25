@@ -2,10 +2,9 @@
   "name": "shubham",
   "version": "1.0.0",
   "description": "profile",
-  "main": "App.js",
   "scripts": {
-    "start": "parcel ./src/index.html",
-    "build": "parcel build ./src/App.js",
+    "start": "npx parcel ./src/index.html",
+    "build": "npx parcel build ./src/index.html --dist-dir ./dist",
     "test": "jest"
   },
   "keywords": [
