@@ -20,8 +20,13 @@ const Body = () => {
                 <div className="w-full md:w-1/2 p-4">
                     <h3 className="text-2xl text-yellow-400 mb-4">My Projects</h3>
                     <ul className="space-y-2">
-                        <li><a className="hover:underline text-sky-400" href='https://github.com/rajan-shubham/React'>Swiggi Replica</a></li>
+                        <li><a className="hover:underline text-sky-400" href='https://github.com/rajan-shubham/devMeet'>Developer Meet <small>workOnProgress</small></a></li>
+                        <li><a className="hover:underline text-sky-400" href='https://gdsc-ticket.vercel.app/'>GDG Ticket</a></li>
+                        <li><a className="hover:underline text-sky-400" href='https://perfin-puce.vercel.app/'>Personal Finance Management</a></li>
+                        <li><a className="hover:underline text-sky-400" href='https://the-mauryans.vercel.app/'>Mauryans Search Engine</a></li>
+                        <li><a className="hover:underline text-sky-400" href='https://github.com/rajan-shubham/React'>Swiggi <small>workOnProgress</small></a></li>
                         <li><a className="hover:underline text-sky-400" href='https://kley-finance-management.vercel.app/'>Kley - Finance Management Dashboard</a></li>
+                        <li><a className="hover:underline text-sky-400" href='https://gdg-makaut-timeline.vercel.app/'>GDG Makaut Timeline</a></li>
                         <li><a className="hover:underline text-sky-400" href='https://pig-dice-game-one.vercel.app/'>Pig-Dice-Game</a></li>
                         <li><a className="hover:underline text-sky-400" href='https://tacos-shop-website.vercel.app/'>Little Tacos Shop</a></li>
                         <li><a className="hover:underline text-sky-400" href='https://netflix-replica-hazel.vercel.app/'>Netflix Replica</a></li>
@@ -35,7 +40,7 @@ const Body = () => {
                     <ul className="space-y-2">
                         <li><strong>Frontend Dev:</strong> JavaScript, TypeScript, Tailwind CSS, HTML & CSS</li>
                         <li><strong>Framework:</strong> React.js, Next.js</li>
-                        <li><strong>Database:</strong> MongoDB</li>
+                        <li><strong>Database:</strong> MongoDB, MySQL</li>
                         <li><strong>Backend Dev:</strong> Express.js, Node.js, Firebase</li>
                         <li><strong>Languages:</strong> C, JAVA, Python, OCaml</li>
                         <li><strong>DevOps:</strong> Bash, Google Cloud, Linux, Git</li>
