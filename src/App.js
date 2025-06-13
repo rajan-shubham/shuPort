@@ -10,7 +10,7 @@ const AppLayout = () => {
     return (
         <div>
             <header>
-                <Header />
+                {/* <Header /> */}
             </header>
             <main className="flex-grow">
                 <Body />
